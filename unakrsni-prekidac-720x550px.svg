@@ -127,7 +127,7 @@
          id="path3" />
     </g>
     <circle
-       style="fill:none;fill-opacity:1;stroke:#f69000;stroke-width:3;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       style="fill:#fffb7f;fill-opacity:0.499211;stroke:#f69000;stroke-width:3;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path1"
        cx="653.57019"
        cy="64.300888"
@@ -313,34 +313,34 @@
          r="4.5" />
     </g>
     <g
-       id="g25"
-       transform="translate(-1.6201782,7.2661743)">
+       id="g40">
       <circle
          style="fill:#999999;fill-opacity:1;stroke:none;stroke-width:3.17661;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
          id="circle12-5-2"
-         cx="-626.67676"
-         cy="404.86945"
+         cx="-625.05658"
+         cy="412.13562"
          r="4.5"
          transform="scale(-1,1)" />
       <circle
          style="fill:#999999;fill-opacity:1;stroke:none;stroke-width:3.17661;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
          id="circle16-9"
-         cx="-626.67676"
-         cy="447.03943"
+         cx="-625.05658"
+         cy="454.3056"
          r="4.5"
          transform="scale(-1,1)" />
       <circle
          style="fill:#999999;fill-opacity:1;stroke:none;stroke-width:3.17661;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
          id="circle17-1"
-         cx="-658.64417"
-         cy="426.28119"
+         cx="-657.02399"
+         cy="433.54736"
          r="4.5"
          transform="scale(-1,1)" />
-      <path
-         style="fill:none;fill-opacity:1;stroke:#acb700;stroke-width:3;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
-         d="M 95.702522,404.86945 V 180.58173 H 348.12024"
-         id="path25" />
     </g>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#acb700;stroke-width:3;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 95.702522,404.86945 V 180.58173 H 348.12024"
+       id="path25"
+       transform="translate(-1.6201782,7.2661743)" />
     <g
        id="g22"
        transform="translate(-1.6201782,7.2661743)">
